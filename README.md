@@ -2,7 +2,7 @@
 ## LSTM over time series text data. 
 
 This contains a notebook and steps to explain how to implement a LSTM over a time series data of text notes.
-The dataset has been modified from the original yelp-reviews dataset. Only 10,000 reviews for the sake of this notebook. [This](https://www.kaggle.com/yelp-dataset/yelp-dataset) is the link to the original dataset.
+The dataset has been modified from the original yelp-reviews dataset. Only 10,000 reviews have been considered for the sake of this notebook. [This](https://www.kaggle.com/yelp-dataset/yelp-dataset) is the link to the original dataset.
 I have changed the dataset for this notebook. The changed dataset has also been uploaded in this repo.
 
 ### Description of the dataset
